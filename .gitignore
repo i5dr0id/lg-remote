@@ -1,0 +1,12 @@
+.client-key
+node_modules
+.DS_Store
+LGRemote/.build
+LGRemote/build
+airplay/
+airplay-upstream/
+DUMP/
+filebrowser/
+screensaver/
+slopbro/
+tvfetch/
