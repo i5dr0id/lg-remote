@@ -6,6 +6,12 @@ A native SwiftUI remote for LG webOS TVs. One binary works three ways:
 - **Menu bar**: a compact remote that keeps running after you close the window
 - **CLI**: `lgremote <command>`, using the same binary and the same pairing
 
+<p align="center">
+  <img src="screenshots/remote-window.png" alt="LG Remote window" width="240" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="screenshots/menu-bar.png" alt="LG Remote in menu bar" />
+</p>
+
 ## Build & install
 
 ```sh
